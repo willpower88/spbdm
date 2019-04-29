@@ -556,8 +556,7 @@ _说明：在mac系统下进行整合，其中service对应provider， web对应
    dubbo>invoke UserService.findUserByName("sam")
    {"passwd":"123","sex":1,"name":"sam","mobile":"13567899876","id":9,"email":"sam@tt.cn"}
    elapsed: 6 ms.
-
-    ```
+   ```
 
 ## 7. 启动consumer,即web ##
    ```html

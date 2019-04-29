@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spbdm.iml" filepath="$PROJECT_DIR$/spbdm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbdm-model/spbdm-model.iml" filepath="$PROJECT_DIR$/spbdm-model/spbdm-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbdm-service/spbdm-service.iml" filepath="$PROJECT_DIR$/spbdm-service/spbdm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbdm-web/spbdm-web.iml" filepath="$PROJECT_DIR$/spbdm-web/spbdm-web.iml" />
+    </modules>
+  </component>
+</project>

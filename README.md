@@ -1,6 +1,8 @@
 
-#Springboot整合mybatis+mysql+dubbo #
+# Springboot整合mybatis+mysql+dubbo #
+
 _说明：在mac系统下进行整合，其中service对应provider， web对应consumer，model对应api_
+
 ## 目录 ##
 
 <!-- vim-markdown-toc GFM -->

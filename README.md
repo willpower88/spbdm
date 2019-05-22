@@ -3,13 +3,6 @@
 
 _说明：在mac系统下进行整合，其中service对应provider， web对应consumer，model对应api_
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
-![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
-![](https://img.shields.io/github/release/pandao/editor.md.svg) 
-![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
-![](https://img.shields.io/bower/v/editor.md.svg)
-
 ## 目录 ##
 
 <!-- vim-markdown-toc GFM -->

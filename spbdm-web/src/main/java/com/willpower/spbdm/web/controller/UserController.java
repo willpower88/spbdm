@@ -27,9 +27,9 @@ public class UserController {
 
     @RequestMapping("/all")
     public List<User> findUserAll() {
-        List<User> users  = userService.findUserAll();
+        List<User> users = userService.findUserAll();
         return users;
-    };
+    }
 
     @RequestMapping("/{name}")
     public User findUserByName(@PathVariable("name") String name) {

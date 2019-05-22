@@ -3,6 +3,13 @@
 
 _说明：在mac系统下进行整合，其中service对应provider， web对应consumer，model对应api_
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
+![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
+![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
+![](https://img.shields.io/github/release/pandao/editor.md.svg) 
+![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
+![](https://img.shields.io/bower/v/editor.md.svg)
+
 ## 目录 ##
 
 <!-- vim-markdown-toc GFM -->
@@ -10,7 +17,7 @@ _说明：在mac系统下进行整合，其中service对应provider， web对应
 * [1. 安装zookeeper](#1-安装zookeeper)
 * [2. 搭建dubbo-admin](#2-搭建dubbo-admin)
 * [3. 新建数据库及表](#3-新建数据库及表)
-* [4. 新建idea工程](#4-新建idea工程)
+* [4. 新建idea工程及实现](#4-新建idea工程及实现)
 * [5. 启动provider,即service](#5-启动provider即service)
 * [6. telnet测试provider服务](#6-telnet测试provider服务)
 * [7. 启动consumer,即web](#7-启动consumer即web)
